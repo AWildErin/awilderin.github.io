@@ -1,0 +1,45 @@
+name = "Lancer Networks"
+engine = "Source 1: Garry's Mod"
+
+languages = [ "Lua" ]
+
+[[paragraphs]]
+text = "Lancer Networks is a Half-Life 2 Roleplaying community where I helped out as a developer for around half a year. While I was a developer there I was tasked with creating various plugins for Helix and Clockwork."
+
+[[paragraphs]]
+text = "Main Menu: My first task with Lancer Networks was to work on a main menu for their server. The intial design and layout for the main menu was contructed for me, what I was asked to do was to populate the main menu with news from their website, using the WordPress API."
+
+[[paragraphs]]
+text = "Cinematic Bars: For their events, they required a cinematic bar command that when ran would slide in 2 bars and display text in the middle."
+
+[[paragraphs]]
+text = "Song player: I was asked to take the song player from ServerGuard and port it over to Clockwork. We ran into some issues when porting it but we eventually got it working. The song player works by allowing administrators to run songs using /play in the chat, this would then pop up a UI panel on the top of the screen showing the title and a progress bar synced with the video time."
+
+[[paragraphs]]
+text = "Snowballs: My last task with them while the server was on Clockwork was to design a system for their winter event where players could pick up snowballs off the ground, this required me to allow players to pickup snowballs and throw them. This task was a bit complicated due to Garry's Mod's API, but I eventually got it completed."
+
+[[paragraphs]]
+text = "Spawn Menu: I was asked to port over a clockwork plugin which added an item spawnlist on the standard spawn menu. This required me to rework how some stuff worked with the plugin."
+
+[[paragraphs]]
+text = "My last task with Lancer was to make containers drop their inventory upon destruction, whether this be with the remover tool or being destroyed by a player."
+
+[[links]]
+name = "Website"
+url = "https://lancer-networks.com"
+
+[[media]]
+name = "test"
+url = "projects/ln/mainmenu-offline.png"
+
+[[media]]
+name = "test"
+url = "projects/ln/mainmenu-offline.png"
+
+[[media]]
+name = "test"
+url = "projects/ln/mainmenu-offline.png"
+
+[[media]]
+name = "test"
+url = "projects/ln/mainmenu-offline.png"

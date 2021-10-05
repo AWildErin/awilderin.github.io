@@ -1,0 +1,9 @@
+intro = "Hi I'm Erin, a programmer and designer from the United Kingdom. I've been programming since around the middle of 2018, starting with Lua and eventually learning more languages as I did random projects either by myself or with friends."
+languages = [ "C#", "A bit of C++", "HTML/CSS", "Lua", "Python", "UE4 Blueprint" ]
+engines = [ "Unity", "Source 1/2", "Unreal Engine 3/4" ]
+scm = [ "Subversion", "Git" ]
+
+[[social]]
+icon = "bi-github"
+name = "Github Profile"
+url = "https://github.com/awilderin"

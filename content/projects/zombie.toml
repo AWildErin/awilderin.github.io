@@ -1,0 +1,35 @@
+name = "Zombie Game"
+engine = "Unity, Source 2: s&box"
+
+languages = [ "C#" ]
+
+[[paragraphs]]
+text = "Zombie Game is my idea for a zombie game based on games like DayZ and Project Zomboid. The game was more designed with VR in mind but I am designing ways to make the gameplay available for both as s&box's VR implementation is a bit barebones at the moment."
+
+[[paragraphs]]
+text = "The project originally started on Unity but eventually moved to s&box when I got access due to my familiarity with Source over Unity."
+
+[[paragraphs]]
+text = ""
+
+[[paragraphs]]
+text = ""
+
+[[paragraphs]]
+text = ""
+
+[[paragraphs]]
+text = ""
+
+[[paragraphs]]
+text = ""
+
+[[links]]
+icon = "bi-google"
+name = "Draft Design Document"
+url = "https://docs.google.com/document/d/1BdimTrPW_N3Pn9YrdXXX2JXwgp-nU1_RqXpvadwnjZs/edit?usp=sharing"
+
+[[links]]
+icon = "bi-github"
+name = "Github Repository"
+url = "https://github.com/AWildErin/zombie"

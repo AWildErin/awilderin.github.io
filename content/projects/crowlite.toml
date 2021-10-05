@@ -1,0 +1,27 @@
+name = "Crowlite Software"
+engine = "UE4, Unity, Source 2: s&box"
+
+languages = [ "C#", "CSS", "HTML" ]
+
+[[paragraphs]]
+text = "Crowlite Software is a group I am currently leading of around 12 developers. These developers range from designers, to modellers, to programmers. Crowlite was our first venture into a Half Life 2 Roleplay styled game, which we eventually moved to working on some other various ideas on s&box, the Source 2 game by Facepunch Studios."
+
+[[paragraphs]]
+text = "Sector 17: Sector 17 is our longest running project, originally started on UE4 we eventually moved to Unity and further Source 2. While haven't gotten much down in terms of programming, we have worked on quite a bit of design work for Sector 17, working on a lore, story and gameplay elements to bring Half-Life 2 Roleplay into a modern environment with a lot more opportunities to do stuff."
+
+[[paragraphs]]
+text = "RPCore: RPCore is our base for roleplay games/gamemodes on s&box. Based on the Helix gamemode borrowing other features from different gamemodes such as CombineControl, Clockwork and our own ideas. RPCore, whenever it's finished, is planned to be open source, but at the moment it's been put aside for some of our other projects."
+
+[[paragraphs]]
+text = "Sand Station 13: This is our recreation of Space Station 13 in s&box with gameplay ideas from Barotrauma, including various things such as a campaign, missions and more. At the moment, this project is still in the design phase as most of our team are busy as of right now."
+
+[[paragraphs]]
+text = "Web: For our website, we plan to use ASP.NET as it keeps it inline with the language we use on our other projects. We plan to have a backend system where we can view project issues, commits, aswell as blog posts for the various projects. In the future, we can possibly allow connection with our game servers allowing servers to be configured by the web."
+
+[[paragraphs]]
+text = ""
+
+[[links]]
+icon = "bi-github"
+name = "Github Organisation"
+url = "https://github.com/Crowlite-Software"

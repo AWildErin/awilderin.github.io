@@ -1,0 +1,15 @@
+name = "Source 2 Automation Tool"
+engine = ""
+
+languages = [ "C#", "JSON" ]
+
+[[paragraphs]]
+text = "S2AT is a tool based on the same concept as Chaos Automation Tool, where we can run 'modules' made in C# and configured via a JSON script."
+
+[[paragraphs]]
+text = "The tool will take the config as a command line argument in the future, at the moment it's hardcoded for debug purposes, and it will read it loading the modules and running them as needed."
+
+[[links]]
+icon = "bi-github"
+name = "Github Repository"
+url = "https://github.com/AWildErin/source2-automation-tool"

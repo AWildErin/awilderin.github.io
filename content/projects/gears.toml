@@ -1,0 +1,12 @@
+name = "Gears of War: s&box"
+engine = "Source 2: s&box"
+
+languages = [ "C#", "CSS", "Python" ]
+
+description = "Not affiliated with The Coalition or the original Gears of War series"
+
+[[paragraphs]]
+text = "This is a project lead by me and another avid Gears of War fan, planning on creating a modular re-creation of Gears of War in s&box. We are aiming for the gameplay to be atleast 1:1 with the orignal game, while allowing for a large range of customisablity such as custom gamemodes, weapons, NPCs and more."
+
+[[paragraphs]]
+text = "One thing we ran into was we needed a way to convert lots of models and animations from psk/psa to fbx, I wrote some blender scripts in python to aid in this conversion."
