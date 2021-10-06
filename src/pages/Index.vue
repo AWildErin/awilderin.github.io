@@ -125,7 +125,7 @@ import ProjectCard from "@/components/ProjectCard";
 
 export default {
   metaInfo: {
-    title: 'Hello, world!'
+    title: 'Portfolio'
   },
   components: {
     ProjectCard
