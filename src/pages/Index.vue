@@ -51,9 +51,11 @@
           <h5>Source Control</h5>
           <p>{{getScm}}</p>
 
-          <div class="btn-group" v-for="social in getSocials" :key="social.name">
+          <div class="btn-group mt-2 mb-2" v-for="social in getSocials" :key="social.name">
             <a class="btn btn-primary me-2" :href="social.url" target="_blank"><i v-if="social.icon" :class="social.icon"/> {{social.name}}</a>
           </div>
+
+          <p class="mt-2 text-muted">This site was made with <a href="https://gridsome.org/" target="_blank">Gridsome</a> and <a href="https://getbootstrap.com" target="_blank">Bootstrap</a></p>
         </div>
         <div class="border-start border-3 border-primary col-9 mt-2">
           <h1 class="text-center text-white">A list of projects I've worked on</h1>
