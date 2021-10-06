@@ -43,14 +43,17 @@
           <h3>A bit about me:</h3>
 
           <h5>Languages</h5>
-          {{getLanguages}}
+          <p>{{getLanguages}}</p>
 
           <h5>Engines</h5>
-          {{getEngines}}
+          <p>{{getEngines}}</p>
 
           <h5>Source Control</h5>
-          {{getScm}}
+          <p>{{getScm}}</p>
 
+          <div class="btn-group" v-for="social in getSocials" :key="social.name">
+            <a class="btn btn-primary me-2" :href="social.url" target="_blank"><i v-if="social.icon" :class="social.icon"/> {{social.name}}</a>
+          </div>
         </div>
         <div class="border-start border-3 border-primary col-9 mt-2">
           <h1 class="text-center text-white">A list of projects I've worked on</h1>
