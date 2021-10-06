@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@gridsome/source-filesystem": "^0.6.2",
+    "gh-pages": "^3.2.3",
     "gridsome": "^0.7.0",
     "gridsome-transformer-toml": "github:emnudge/gridsome-transformer-toml#master"
   },

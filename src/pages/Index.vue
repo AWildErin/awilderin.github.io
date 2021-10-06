@@ -101,7 +101,6 @@ query {
             icon
             name
             url
-            copy
           }
         }
       }
