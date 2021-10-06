@@ -2,3 +2,17 @@ name = "Various Helix Gamemodes"
 engine = "Source 1: Garry's Mod"
 
 languages = [ "Lua" ]
+
+[[paragraphs]]
+text = "While playing around with Helix, I came up with some roleplay ideas which never fully got made."
+
+[[paragraphs]]
+text = "ZombieRP: This was a helix version of my zombie game idea, which never fully got completed because I could never fully acomplish what I wanted with the idea."
+
+[[paragraphs]]
+text = "SciFiRP: A mix between the concepts of Star Citizen and Halo, the original idea was to have player owned businesses and a fueled economy along with a bunch of jobs players could play as, military, police, etc. Unfortunately, this idea would never have taken off due to Garry's Mod's lack of actual serious roleplay needed to complete the idea and, as such, was stopped early in development."
+
+[[links]]
+icon = "bi-google"
+name = "Sci-Fi RP Lore Document"
+url = "https://docs.google.com/document/d/1YxLJnn21ZrbRWmZcnMgdW1jLcT8tf6cV7QSSA6nKZ3w/edit?usp=sharing"

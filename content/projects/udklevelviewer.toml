@@ -15,3 +15,27 @@ text = "Currently the exporter doesn't support brushes which is why some of thes
 icon = "bi-github"
 name = "Github Repository"
 url = "https://github.com/AWildErin/udklevelviewer"
+
+[[media]]
+name = "Gears of War Judgement old town in the Gears of War 3 Editor"
+url = "projects/udklevelviewer/gowj_oldtown_1.png"
+
+[[media]]
+name = "Gears of War Judgement old town in the Gears of War 3 Editor"
+url = "projects/udklevelviewer/gowj_oldtown_2.png"
+
+[[media]]
+name = "Outlast labs in the UE3 Editor"
+url = "projects/udklevelviewer/outlast_lab_1.png"
+
+[[media]]
+name = "Outlast labs in the UE3 Editor"
+url = "projects/udklevelviewer/outlast_lab_2.png"
+
+[[media]]
+name = "Outlast labs in the UE3 Editor"
+url = "projects/udklevelviewer/outlast_lab_3.png"
+
+[[media]]
+name = "Outlast labs in the UE3 Editor"
+url = "projects/udklevelviewer/outlast_lab_4.png"

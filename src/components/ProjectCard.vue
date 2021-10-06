@@ -15,23 +15,23 @@
         <h6 class="card-subtitle mb-2 text-muted" v-if="project.languages.length <= 1">Language: {{project.languages[0]}}</h6>
 
         <h6 class="card-subtitle mb-2 text-muted" v-if="project.software.length > 0">Software: {{getSoftware}}</h6>
-        <ul>
-          <li v-for="(link, index) of project.links" :key="index">
-            <!-- TODO: Fix this space, probably be best to move them to a else if just to be easier -->
-            <a class="btn btn-primary" :href="link.url"><i v-if="link.icon" :class="link.icon"/> {{link.name}}</a>
-          </li>
-        </ul>
+
+        <div class="btn-group mt-2 mb-2" v-for="(link, index) of project.links" :key="index">
+          <a class="btn btn-primary me-2" :href="link.url" target="_blank"><i v-if="link.icon" :class="link.icon"/> {{link.name}}</a>
+        </div>
 
         <p class="card-text" v-for="(paragraph, index) of project.paragraphs" :key="index">
           {{paragraph.text}}
         </p>
 
         <ul class="list-group list-group-horizontal-lg d-flex flex-wrap center" v-if="project.media.length > 0">
-          <li class="list-group-item" v-for="(media, index) of project.media" :key="index">
-            <!--<g-image :src="getImage(index)" width="50"/>-->
-            <img :src="media.url" style="height: 100px" />
+          <li class="list-group-item bg-dark" v-for="(media, index) of project.media" :key="index">
+            <a :href="media.url" target="_blank">
+              <img :src="media.url" class="img-thumbnail bg-dark border-dark" style="height: 100px" />
+            </a>
           </li>
         </ul>
+        
       </div>
     </div>
 </template>

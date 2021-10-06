@@ -4,7 +4,7 @@ engine = "Source 1: Garry's Mod"
 languages = [ "Lua" ]
 
 [[paragraphs]]
-text = "Lancer Networks is a Half-Life 2 Roleplaying community where I helped out as a developer for around half a year. While I was a developer there I was tasked with creating various plugins for Helix and Clockwork."
+text = "Lancer Networks was a Half-Life 2 Roleplaying community where I helped out as a developer for around half a year. While I was a developer there I was tasked with creating various plugins for Helix and Clockwork."
 
 [[paragraphs]]
 text = "Main Menu: My first task with Lancer Networks was to work on a main menu for their server. The intial design and layout for the main menu was contructed for me, what I was asked to do was to populate the main menu with news from their website, using the WordPress API."
@@ -24,22 +24,26 @@ text = "Spawn Menu: I was asked to port over a clockwork plugin which added an i
 [[paragraphs]]
 text = "My last task with Lancer was to make containers drop their inventory upon destruction, whether this be with the remover tool or being destroyed by a player."
 
-[[links]]
-name = "Website"
-url = "https://lancer-networks.com"
-
 [[media]]
-name = "test"
+name = "Main menu when the WordPress API could not be found"
 url = "projects/ln/mainmenu-offline.png"
 
 [[media]]
-name = "test"
-url = "projects/ln/mainmenu-offline.png"
+name = "Snowball Item"
+url = "projects/ln/snowball-item.png"
 
 [[media]]
-name = "test"
-url = "projects/ln/mainmenu-offline.png"
+name = "Spotlight"
+url = "projects/ln/spotlight.png"
 
 [[media]]
-name = "test"
-url = "projects/ln/mainmenu-offline.png"
+name = "Spotlight"
+url = "projects/ln/spotlight2.png"
+
+[[media]]
+name = "Spotlight"
+url = "projects/ln/spotlight3.png"
+
+[[media]]
+name = "Song Player"
+url = "projects/ln/songplayer.png"

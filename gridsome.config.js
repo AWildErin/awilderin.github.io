@@ -21,6 +21,13 @@ module.exports = {
         typeName: 'GeneralInfo',
         path: './content/general.toml',
       }
-    }
+    },
+    {
+      use: '@gridsome/source-filesystem',
+      options: {
+        typeName: 'Socials',
+        path: './content/social/*.toml',
+      }
+    },
   ]
 }
