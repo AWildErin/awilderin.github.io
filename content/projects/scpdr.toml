@@ -8,3 +8,14 @@ text = "SCP: Data Redacted was a project by me and a few other people based arou
 
 [[paragraphs]]
 text = "The idea was based around players roleplaying aspects of the Foundation, such as scientists, security and much more. We have a lot of indepth plans for SCP:DR but lacked the team for most of them."
+
+[[paragraphs]]
+text = "For SCP:DR I had a few roles such as Project Manager, Programmer and Lead Designer, where I designed various parts of the game such as roleplay systems (Terminals, servers etc) aswell as other things like the player jobs."
+
+[[paragraphs]]
+text = "You can find a download link to the last build of SCP:DR. In order to load this, you must have Unreal Engine 4.22. There may be issues but I will not be offering support with it."
+
+[[links]]
+icon = "bi-arrow-down"
+name = "Project Download"
+url = "https://mega.nz/file/w14nmQ7I#zRNQQPmWe1rTkXhWDsBJjyRJnFs9uEdVGWP0p6x5lWY"
