@@ -22,3 +22,27 @@ text = "Please keep in mind that the screenshots are based from an in-developmen
 icon = "bi-arrow-down"
 name = "Project Download"
 url = "https://mega.nz/file/w14nmQ7I#zRNQQPmWe1rTkXhWDsBJjyRJnFs9uEdVGWP0p6x5lWY"
+
+[[media]]
+name = "Main Menu"
+url = "projects/scpdr/scpdr-mainmenu.png"
+
+[[media]]
+name = "Custom Console"
+url = "projects/scpdr/scpdr-customconsole.png"
+
+[[media]]
+name = "Chat system with commmands"
+url = "projects/scpdr/scpdr-chatcommands.png"
+
+[[media]]
+name = "Character Menu"
+url = "projects/scpdr/scpdr-charmenu1.png"
+
+[[media]]
+name = "Character Menu"
+url = "projects/scpdr/scpdr-charmenu2.png"
+
+[[media]]
+name = "Character Menu"
+url = "projects/scpdr/scpdr-charmenu3.png"
