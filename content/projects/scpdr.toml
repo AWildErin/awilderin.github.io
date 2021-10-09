@@ -15,6 +15,9 @@ text = "For SCP:DR I had a few roles such as Project Manager, Programmer and Lea
 [[paragraphs]]
 text = "You can find a download link to the last build of SCP:DR. In order to load this, you must have Unreal Engine 4.22. There may be issues but I will not be offering support with it."
 
+[[paragraphs]]
+text = "Please keep in mind that the screenshots are based from an in-development build. The final product would have had better UI design."
+
 [[links]]
 icon = "bi-arrow-down"
 name = "Project Download"
