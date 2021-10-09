@@ -10,3 +10,6 @@ text = "This is a project lead by me and another avid Gears of War fan, planning
 
 [[paragraphs]]
 text = "One thing we ran into was we needed a way to convert lots of models and animations from psk/psa to fbx, I wrote some blender scripts in python to aid in this conversion."
+
+[[paragraphs]]
+text = "Currently the project is on hold due to life reasons, but when we get the time we make pushes to the code. Currently I am working on a pawn system where we can allow the AI to take over the same pawns as the player, this allows us to reuse the player pawns rather than creating full custom pawns for the AI."
