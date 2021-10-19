@@ -29,5 +29,29 @@ module.exports = {
         path: './content/social/*.toml',
       }
     },
-  ]
+    {
+      use: '@gridsome/source-filesystem',
+      options: {
+        typeName: 'Post',
+        path: './blog/**/*.md',
+        remark: {},
+      }
+    }
+  ],
+  transformers: {
+    remark: {
+      plugins: [
+        [
+          "remark-autolink-headings",
+          {
+            behavior: "wrap",
+            linkProperties: {
+              ariaHidden: "true",
+              tabIndex: -1,
+            },
+          },
+        ] 
+      ],
+    },
+  },
 }

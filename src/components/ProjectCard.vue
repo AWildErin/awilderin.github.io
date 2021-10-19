@@ -37,19 +37,18 @@
 </template>
 
 <script>
-
 export default {
   name: 'ProjectCard',
   props: {
     project: Object,
   },
   computed: {
-      getLanguages() {
-        return this.project.languages.join( ", " );
-      },
-      getSoftware() {
-        return this.project.software.join( ", " );
-      }
+    getLanguages() {
+      return this.project.languages.join( ", " );
+    },
+    getSoftware() {
+      return this.project.software.join( ", " );
+    }
   },
   methods: {
     // Workaround for https://github.com/gridsome/gridsome/issues/292
