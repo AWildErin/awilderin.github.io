@@ -13,7 +13,7 @@
     <h1 class="text-center">AWildErin's Portfolio</h1>
     {{generalInfo.intro}}
 
-    h3>A bit about me:</h3>
+    <h3>A bit about me:</h3>
 
     <h5>Languages</h5>
     <p>{{getLanguages}}</p>
