@@ -6,10 +6,10 @@ software = [ "OpenTK" ]
 description = "The content inside the screenshots (the models and such) are not mine and are owned by their respected owners."
 
 [[paragraphs]]
-text = "In September 2021 I decided to create a level viewer for UDK/UE3 based games. At the moment I don't have any full rendering down, however I have managed to create a level exporter through it."
+text = "In September 2021 I decided to create a level viewer for UDK/UE3 based games. Through this project I gained a better understanding of OpenGL, rendering and how Unreal Engine 3 works."
 
 [[paragraphs]]
-text = "Currently the exporter doesn't support brushes which is why some of these levels feel empty, however that is slowly being worked on alongside Xenon support."
+text = "So far, the project has an exporter for UE3 levels to T3D supporting everything from lights to brushes. The level viewer can load UE3 models and materials fine, at the moment this has not been pushed to the main branch."
 
 [[links]]
 icon = "bi-github"
