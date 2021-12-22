@@ -9,7 +9,7 @@
     </nav>
     <img src="current-pfp.png" class="rounded-circle border-primary" />
     -->
-    <img src="current-pfp.png" class="mx-auto d-block rounded-circle border-success" />
+    <img src="current-pfp.png" style="width: 256px" class="mx-auto d-block rounded-circle border-success" />
     <h1 class="text-center">AWildErin's Portfolio</h1>
     {{generalInfo.intro}}
 
