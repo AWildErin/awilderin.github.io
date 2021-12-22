@@ -1,0 +1,74 @@
+name = "Portal 2: Community Edition"
+engine = "Source 1"
+
+languages = [ "C++", "XML", "CSS", "JavaScript"]
+software = [ "Qt", "Panorama" ]
+
+[[paragraphs]]
+text = "Since Mid December 2021 I've been on Portal 2 Community Edition's team as UI Developer working with Qt and Panorama"
+
+[[paragraphs]]
+text = "I originally started out contributing towards the open-source Qt Hammer dialogs in November to help the team get more work done on the port of Hammer's UI from MFC to Qt and I eventually applied for the team in December to help out on various other UI aspects of the game aswell as other Qt based stuff."
+
+[[paragraphs]]
+text = "Some of the work I did in the Hammer Qt Dialogs can be found in the images below aswell as the Qt Hammer Dialogs link."
+
+[[links]]
+icon = "bi-house"
+name = "Home Page"
+url = "https://portal2communityedition.com/"
+
+[[links]]
+icon = "bi-github"
+name = "GitHub Organisation"
+url = "https://github.com/ChaosInitiative"
+
+[[links]]
+icon = "bi-github"
+name = "Qt Hammer Dialogs"
+url = "https://github.com/ChaosInitiative/hammer-qt-dialogs"
+
+[[links]]
+icon = "bi-discord"
+name = "Discord"
+url = "https://discord.gg/NcHSmgb"
+
+[[media]]
+name = "Edit Visgroups Dialog"
+url = "projects/p2ce/editvisgroups.png"
+
+[[media]]
+name = "Entity Help Dialog"
+url = "projects/p2ce/entityhelp.png"
+
+[[media]]
+name = "Face Edit Sheet Dialog"
+url = "projects/p2ce/faceedit-1.png"
+
+[[media]]
+name = "Face Edit Sheet Dialog"
+url = "projects/p2ce/faceedit-2.png"
+
+[[media]]
+name = "Move To Visgroups Dialog"
+url = "projects/p2ce/movetovisgroups-1.png"
+
+[[media]]
+name = "Move To Visgroups Dialog"
+url = "projects/p2ce/movetovisgroups-2.png"
+
+[[media]]
+name = "Replace Dialog"
+url = "projects/p2ce/replace.png"
+
+[[media]]
+name = "Smoothing Groups Dialog"
+url = "projects/p2ce/smoothinggroups.png"
+
+[[media]]
+name = "Sound Browser Dialog"
+url = "projects/p2ce/soundbrowser.png"
+
+[[media]]
+name = "Transformation Dialog"
+url = "projects/p2ce/transfromation.png"
