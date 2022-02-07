@@ -5,7 +5,7 @@
         <Introduction />
         <div class="col-9 mt-2">
           <h1 class="text-center text-white">A list of projects I've worked on</h1>
-          <div v-for="project in getProjects" :key="project.name">
+          <div v-for="project in getProjects" :key="project.order">
             <ProjectCard class="mb-2 bg-dark text-white" :project="project" />
           </div>
         </div>
